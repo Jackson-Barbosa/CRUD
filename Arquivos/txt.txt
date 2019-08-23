@@ -1,0 +1,6 @@
+BANCO INSTALADO
+MY SQL CONECTOR
+ADD - REFERENCIA - MYSQLDATA
+
+Código do banco:
+Bloco de notas - salvar como -todos os arquivos - *.udl-abir como - ole db - nome do servidor- nome do data base- abir com bloco de notas- apartir de integrate.(string de conexao)

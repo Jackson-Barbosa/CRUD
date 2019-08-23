@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Jackson & Mariana\JBMD_4Bimestre\JBMD_4Bimestre\bin\Debug\JBMD_4Bimestre.exe.config
+C:\Users\Usuario\Desktop\Jackson & Mariana\JBMD_4Bimestre\JBMD_4Bimestre\bin\Debug\JBMD_4Bimestre.exe
+C:\Users\Usuario\Desktop\Jackson & Mariana\JBMD_4Bimestre\JBMD_4Bimestre\bin\Debug\JBMD_4Bimestre.pdb
+C:\Users\Usuario\Desktop\Jackson & Mariana\JBMD_4Bimestre\JBMD_4Bimestre\obj\Debug\JBMD_4Bimestre.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Jackson & Mariana\JBMD_4Bimestre\JBMD_4Bimestre\obj\Debug\JBMD_4Bimestre.FrmAbertura.resources
+C:\Users\Usuario\Desktop\Jackson & Mariana\JBMD_4Bimestre\JBMD_4Bimestre\obj\Debug\JBMD_4Bimestre.FrmLogin.resources
+C:\Users\Usuario\Desktop\Jackson & Mariana\JBMD_4Bimestre\JBMD_4Bimestre\obj\Debug\JBMD_4Bimestre.FrmPrincipal.resources
+C:\Users\Usuario\Desktop\Jackson & Mariana\JBMD_4Bimestre\JBMD_4Bimestre\obj\Debug\JBMD_4Bimestre.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Jackson & Mariana\JBMD_4Bimestre\JBMD_4Bimestre\obj\Debug\JBMD_4Bimestre.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Jackson & Mariana\JBMD_4Bimestre\JBMD_4Bimestre\obj\Debug\JBMD_4Bimestre.exe
+C:\Users\Usuario\Desktop\Jackson & Mariana\JBMD_4Bimestre\JBMD_4Bimestre\obj\Debug\JBMD_4Bimestre.pdb
